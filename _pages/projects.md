@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /projects/
 description: Our research projects in generative AI, robotics, and large models.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [generative ai, robotics, large models]
 horizontal: false

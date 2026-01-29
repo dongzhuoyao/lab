@@ -3,7 +3,7 @@ layout: profiles
 permalink: /team/
 title: Team
 description: Members of the Generative Intelligence Lab
-nav: true
+nav: false
 nav_order: 3
 
 profiles:

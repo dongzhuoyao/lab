@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Our lab's publications in generative AI, robotics, and large models.
-nav: true
+nav: false
 nav_order: 4
 ---
 
