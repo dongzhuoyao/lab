@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+description: Our research projects in generative AI, robotics, and large models.
+nav: true
+nav_order: 2
+display_categories: [generative ai, robotics, large models]
 horizontal: false
 ---
 

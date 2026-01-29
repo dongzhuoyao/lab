@@ -19,6 +19,24 @@ strong {
   color: var(--global-text-color);
 }
 
+// Clean & minimal typography improvements
+p {
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+h1 {
+  letter-spacing: -0.02em;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

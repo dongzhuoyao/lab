@@ -38,6 +38,8 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
 
   .card-img {
     width: 100%;
@@ -49,7 +51,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 1.5rem;
   }
 }
 
@@ -147,16 +149,16 @@ ul.task-list input[type="checkbox"] {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
+    width: 280px;
+    margin-bottom: 1.5rem;
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light);
     border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    padding-top: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
     text-align: right;
   }
 }
