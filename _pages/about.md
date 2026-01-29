@@ -38,4 +38,4 @@ We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](
 - Claude Code API reimbursement
 - Opportunities to publish at top venues (CVPR, ICCV, NeurIPS, ICLR, etc.)
 
-**Interested?** Email your CV, transcript, and a few sentences about your research interests to [taohu620@gmail.com](mailto:taohu620@gmail.com).
+> **Interested?** Email your CV, transcript, and a few sentences about your research interests to **taohu620 [at] gmail [dot] com**.
