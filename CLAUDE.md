@@ -7,7 +7,7 @@ This file provides guidance to Claude Code when working with this repository.
 
 - Try to avoid changing the template files, and follow the upstream repo.
 - Always respect the implementation of the upstream, so we can enjoy the feature design of them.
-- This is a lab website - keep content focused on the research group.
+- This is a lab website - keep content focused on the research ai lab at HUST, China. The research focus is Generative Models, Robotics, Large Vision Models, and Brain-Computer Interface (脑机接口). We are actively recruting PhD students and Masters. Bachelors are also welcome to attend academic research.
 
 ## Project Overview
 
