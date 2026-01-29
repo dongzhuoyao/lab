@@ -6,7 +6,7 @@ subtitle: Vision, Intelligence, Brain, Embodiment
 
 profile: false
 
-news: true
+news: false
 latest_posts: false
 selected_papers: false
 social: false
