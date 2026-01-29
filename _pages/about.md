@@ -8,7 +8,7 @@ profile: false
 
 news: true
 latest_posts: false
-selected_papers: true
+selected_papers: false
 social: false
 ---
 
@@ -20,7 +20,7 @@ We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](
 
 **Dr. Tao Hu (胡涛)** leads the lab with a focus on pushing the boundaries of generative AI. He received his Ph.D. from the [University of Amsterdam](https://www.uva.nl/) in 2023, where he was supervised by [Prof. Cees Snoek](https://www.ceessnoek.info/) ([VISlab](https://ivi.fnwi.uva.nl/vislab/)), followed by postdoctoral research at the renowned [CompVis Group](https://ommer-lab.com/) ([Ludwig Maximilian University of Munich](https://www.lmu.de/)) under [Prof. Björn Ommer](https://ommer-lab.com/people/ommer/)—the team behind **[Stable Diffusion](https://stability.ai/stable-diffusion)**. His research spans diffusion models, flow matching, and efficient generative architectures, with publications at top-tier venues including CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Notable contributions include [Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) (CVPR 2023), which pioneered self-supervised guidance for diffusion; [ZigMa](https://taohu.me/zigma/) (ECCV 2024), the first DiT-style Mamba-based diffusion model; [DepthFM](https://depthfm.github.io/) (AAAI 2025 Oral), achieving fast monocular depth estimation via flow matching. He has received multiple oral and spotlight presentations, serves as Area Chair for CVPR workshops on AI for Content Creation and Efficient Large Vision Models, and was recognized as an Excellent Reviewer at NeurIPS 2024.
 
-[Personal Homepage](http://taohu.me) &#124; [Google Scholar](https://scholar.google.com/citations?user=EchdyZEAAAAJ) &#124; [GitHub](https://github.com/dongzhuoyao)
+[Personal Homepage](http://taohu.me) &#124; [Google Scholar](https://scholar.google.com/citations?user=EchdyZEAAAAJ)
 
 ---
 
