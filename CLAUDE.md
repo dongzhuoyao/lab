@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code when working with this repository.
+This file provides guidance to Claude Code when working with this repository. The lab is VIBE at HUST, China. The site highlights a basic intro of the PI, the team, and current open opportunities.
 
 
 # Rules
