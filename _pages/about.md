@@ -14,11 +14,16 @@ social: false
 
 <img src="/lab/assets/img/vibe-logo.svg" alt="VIBE Lab Logo" style="width: 150px; display: block; margin: 0 auto 20px;">
 
+<div class="alert alert-danger text-center" role="alert" style="border: 2px solid #dc3545; padding: 15px; margin: 15px 0;">
+  <strong>We are hiring for Fall 2026!</strong> 2 PhD · Several Master's · Bachelor's welcome<br>
+  <a href="/lab/lab/#open-positions-fall-2026">See open positions →</a>
+</div>
+
 We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
 
 ## About
 
-**Prof. Tao Hu (胡涛)**, Full Professor at HUST, leads the VIBE with a focus on pushing the boundaries of generative AI. He received his Ph.D. from the [University of Amsterdam](https://www.uva.nl/) in 2023 (B.S. Wuhan University, M.S. Peking University), where he was supervised by [Prof. Cees Snoek](https://www.ceessnoek.info/) ([VISlab](https://ivi.fnwi.uva.nl/vislab/)), followed by postdoctoral research at the renowned [CompVis Group](https://ommer-lab.com/) ([Ludwig Maximilian University of Munich](https://www.lmu.de/)) under [Prof. Björn Ommer](https://ommer-lab.com/people/ommer/)—the team behind **[Stable Diffusion](https://stability.ai/stable-diffusion)**. His research spans diffusion models, flow matching, and efficient generative architectures, with publications at top-tier venues including CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Notable contributions include [Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) (CVPR 2023), which pioneered self-supervised guidance for diffusion; [ZigMa](https://taohu.me/zigma/) (ECCV 2024), the first DiT-style Mamba-based diffusion model; [DepthFM](https://depthfm.github.io/) (AAAI 2025 Oral), achieving fast monocular depth estimation via flow matching.
+**Prof. Tao Hu (胡涛)**, Full Professor at HUST, leads the VIBE with a focus on pushing the boundaries of generative AI. He received his Ph.D. from the [University of Amsterdam](https://www.uva.nl/) in 2023 (B.S. Wuhan University, M.S. Peking University), where he was supervised by [Prof. Cees Snoek](https://www.ceessnoek.info/) ([VISlab](https://ivi.fnwi.uva.nl/vislab/)), followed by postdoctoral research at the renowned [CompVis Group](https://ommer-lab.com/) ([Ludwig Maximilian University of Munich](https://www.lmu.de/)) under [Prof. Björn Ommer](https://ommer-lab.com/people/ommer/)—the team behind **[Stable Diffusion](https://stability.ai/stable-diffusion)**. His research spans diffusion models, flow matching, and efficient generative architectures, with publications at top-tier venues including CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Notable contributions include [DepthFM](https://depthfm.github.io/) (AAAI 2025 Oral), achieving fast monocular depth estimation via flow matching; [ZigMa](https://taohu.me/zigma/) (ECCV 2024), the first DiT-style Mamba-based diffusion model; [Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) (CVPR 2023), which pioneered self-supervised guidance for diffusion.
 
 [Personal Homepage](http://taohu.me) &#124; [Google Scholar](https://scholar.google.com/citations?user=EchdyZEAAAAJ)
 
