@@ -14,6 +14,11 @@ social: false
 
 <img src="/lab/assets/img/vibe-logo.svg" alt="VIBE Lab Logo" style="width: 150px; display: block; margin: 0 auto 20px;">
 
+<div class="alert alert-danger text-center" role="alert" style="border: 2px solid #dc3545; padding: 15px; margin: 15px 0;">
+  <strong>We are hiring for Fall 2026!</strong> 2 PhD · Several Master's · Bachelor's welcome<br>
+  <a href="/lab/lab/#open-positions-fall-2026">See open positions →</a>
+</div>
+
 We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
 
 ## About
