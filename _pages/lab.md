@@ -19,7 +19,7 @@ description: Research Lab
   <div class="col-sm-4 text-center">
     <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded-circle mb-2" style="width: 150px; height: 150px; object-fit: cover;" alt="Dr. Sarah Chen">
     <h5 class="mb-0"><a href="https://example.com">Dr. Sarah Chen</a></h5>
-    <p class="text-muted small">Assistant Professor</p>
+    <p class="text-muted small">Full Professor</p>
   </div>
 </div>
 
