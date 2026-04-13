@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
-  <title id="title">VIBE 实验室 2026 招生海报</title>
-  <desc id="desc">华中科技大学 VIBE 实验室 2026 年秋季招收博士和硕士研究生的中文广告图。</desc>
+  <title id="title">VIBE 实验室 2027 招生海报</title>
+  <desc id="desc">华中科技大学 VIBE 实验室 2027 年秋季招收博士和硕士研究生的中文广告图。</desc>
 
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -32,7 +32,7 @@
   <g transform="translate(90 90)" fill="#dbeafe" font-family="'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif">
     <text x="0" y="36" font-size="20" letter-spacing="3" fill="#7dd3fc">VISION • INTELLIGENCE • BRAIN • EMBODIMENT</text>
     <text x="0" y="108" font-size="54" font-weight="700">VIBE 视觉智能与脑机实验室</text>
-    <text x="0" y="162" font-size="28" fill="#e0f2fe">2026 秋季招生 | 2 名博士 · 若干硕士</text>
+    <text x="0" y="162" font-size="28" fill="#e0f2fe">2027 秋季招生 | 博士 · 硕士</text>
 
     <g transform="translate(0 210)" font-size="24" fill="#e2e8f0">
       <text y="0">研究方向：生成式 AI · 大视觉模型 · 机器人学习 · 脑机接口</text>
