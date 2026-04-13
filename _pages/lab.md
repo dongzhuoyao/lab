@@ -7,9 +7,9 @@ description: Research Lab
 ---
 
 <div class="alert alert-danger text-center" role="alert" style="border: 2px solid #dc3545; padding: 20px;">
-  <h4 style="margin-bottom: 10px;">We are actively recruiting for Fall 2026!</h4>
+  <h4 style="margin-bottom: 10px;">We are actively recruiting for Fall 2027!</h4>
   <p style="margin-bottom: 8px;">
-    <strong>2 PhD positions</strong> · <strong>Several Master's positions</strong> · <strong>Bachelor's students also welcome</strong>
+    <strong>PhD positions</strong> · <strong>Master's positions</strong> · <strong>Bachelor's students also welcome</strong>
   </p>
   <p style="margin-bottom: 8px;">
     Research interests: <em>Generative Models, Flow Matching, LLMs, Computer Vision</em>
@@ -22,14 +22,14 @@ description: Research Lab
 
 ---
 
-## Open Positions (Fall 2026)
+## Open Positions (Fall 2027)
 
-We have multiple openings for motivated students to join our group starting **Fall 2026**:
+We have multiple openings for motivated students to join our group starting **Fall 2027**:
 
 | Position | Openings | Note |
 |----------|----------|------|
-| **PhD Student** | 2 | Fully funded. Strong background in deep learning / generative models preferred. |
-| **Master's Student** | Several | Research-oriented master's thesis projects available. |
+| **PhD Student** | Open | Fully funded. Strong background in deep learning / generative models preferred. |
+| **Master's Student** | Open | Research-oriented master's thesis projects available. |
 | **Bachelor's Student** | Open | Undergraduate researchers are welcome to join ongoing projects. |
 | **PostDoc / Research Assistant / Visiting Student** | Open | Contact us for details. |
 

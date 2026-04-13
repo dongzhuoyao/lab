@@ -17,8 +17,8 @@ social: false
 We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
 
 <div class="alert alert-warning text-center mb-4" role="alert">
-  <strong>Join VIBE Lab — Fall 2026 intake</strong><br>
-  We’re recruiting <strong>2 PhD</strong> and <strong>several Master students</strong> to build the next wave of generative & embodied intelligence (diffusion, LVMs, robotics, BCI).
+  <strong>Join VIBE Lab — Fall 2027 intake</strong><br>
+  We’re recruiting <strong>PhD</strong> and <strong>Master students</strong> to build the next wave of generative & embodied intelligence (diffusion, LVMs, robotics, BCI).
   <div class="mt-2">
     <a class="btn btn-primary btn-sm" href="mailto:taohu620@gmail.com?subject=VIBE%20Lab%20Application">Email your CV</a>
   </div>
@@ -48,7 +48,7 @@ We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](
 
 We are actively recruiting **PhD students**, **Master students**, and **undergraduate research assistants** to join our lab.
 
-**2026 Fall Openings:** We are recruiting **2 PhD students** and **several Master students** starting September 2026. **Bachelor students** are also warmly welcome to join and do research with us.
+**2027 Fall Openings:** We are recruiting **PhD students** and **Master students** starting September 2027. **Bachelor students** are also warmly welcome to join and do research with us.
 
 > **Interested?** Email your CV, transcript, and a few sentences about your research interests to **taohu620 [at] gmail [dot] com**.
 
