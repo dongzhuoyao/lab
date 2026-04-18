@@ -33,7 +33,7 @@ We have multiple openings for motivated students to join our group starting **Fa
 | **Bachelor's Student** | Open | Undergraduate researchers are welcome to join ongoing projects. |
 | **PostDoc / Research Assistant / Visiting Student** | Open | Contact us for details. |
 
-**How to apply:** Send your CV, transcripts, and a brief research statement to [taohu620@gmail.com](mailto:taohu620@gmail.com), or book a meeting via [cal.com](https://cal.com/hu-tao-leakvj/30min).
+**How to apply:** Send your CV, transcripts, and a brief research statement to [taohu620.application@gmail.com](mailto:taohu620.application@gmail.com), or book a meeting via [cal.com](https://cal.com/hu-tao-leakvj/30min).
 
 ---
 
