@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: VIBE Lab
+title: VIBE Group
 first_name: VIBE
 middle_name:
-last_name: Lab
+last_name: Group
 email: taohu620@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  VIBE Lab - Vision, Intelligence, Brain, Embodiment. Research lab at HUST exploring generative AI, robotics, and large models.
+  VIBE Group - Vision, Intelligence, Brain, Embodiment. Research lab at HUST exploring generative AI, robotics, and large models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

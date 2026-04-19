@@ -12,15 +12,15 @@ selected_papers: false
 social: false
 ---
 
-<img src="/lab/assets/img/vibe-logo.svg" alt="VIBE Lab Logo" style="width: 150px; display: block; margin: 0 auto 20px;">
+<img src="/lab/assets/img/vibe-logo.svg" alt="VIBE Group Logo" style="width: 150px; display: block; margin: 0 auto 20px;">
 
-We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
+We are **VIBE Group** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
 
 <div class="alert alert-warning text-center mb-4" role="alert">
-  <strong>Join VIBE Lab — Fall 2027 intake</strong><br>
-  We’re recruiting <strong>PhD</strong> and <strong>Master students</strong> to build the next wave of generative & embodied intelligence (diffusion, LVMs, robotics, BCI).
+  <strong>Join VIBE Group — Fall 2027 intake</strong><br>
+  We’re recruiting <strong>PhD</strong>, <strong>Master students</strong>, and <strong>Research Assistants</strong> to build the next wave of generative & embodied intelligence (diffusion, LVMs, robotics, BCI). <strong>Bachelor and high school students</strong> are also welcome!
   <div class="mt-2">
-    <a class="btn btn-primary btn-sm" href="mailto:taohu620.application@gmail.com?subject=VIBE%20Lab%20Application">Email your CV</a>
+    <a class="btn btn-primary btn-sm" href="mailto:taohu620+application@gmail.com?subject=VIBE%20Lab%20Application">Email your CV</a>
   </div>
 </div>
 
@@ -46,10 +46,101 @@ We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](
 - Claude Code API reimbursement
 - Opportunities to publish at top venues (CVPR, ICCV, NeurIPS, ICLR, etc.)
 
-We are actively recruiting **PhD students**, **Master students**, and **undergraduate research assistants** to join our lab.
+We are actively recruiting **PhD students**, **Master students**, **Research Assistants**, and **undergraduate research assistants** to join our group. **Bachelor and even high school students** are warmly welcome to participate in academic research.
 
-**2027 Fall Openings:** We are recruiting **PhD students** and **Master students** starting September 2027. **Bachelor students** are also warmly welcome to join and do research with us.
+**2027 Fall Openings:** We are recruiting **PhD students**, **Master students**, and **RAs** starting September 2027.
 
 > **Interested?** Email your CV, transcript, and a few sentences about your research interests to **taohu620.application [at] gmail [dot] com**.
+
+---
+
+## External Collaborators
+
+<div class="row">
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://ommer-lab.com/people/ommer/">
+      <img src="/lab/assets/img/collaborators/bjorn-ommer.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Björn Ommer">
+    </a>
+    <h6 class="mb-0"><a href="https://ommer-lab.com/people/ommer/">Prof. Björn Ommer</a></h6>
+    <p class="text-muted small">LMU Munich · <a href="https://scholar.google.nl/citations?user=0uKdbscAAAAJ&hl=en">Scholar</a></p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://www.ceessnoek.info/">
+      <img src="/lab/assets/img/collaborators/cees-snoek.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Cees Snoek">
+    </a>
+    <h6 class="mb-0"><a href="https://www.ceessnoek.info/">Prof. Cees Snoek</a></h6>
+    <p class="text-muted small">University of Amsterdam</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://yukimasano.github.io/">
+      <img src="/lab/assets/img/collaborators/yuki-asano.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Yuki M. Asano">
+    </a>
+    <h6 class="mb-0"><a href="https://yukimasano.github.io/">Prof. Yuki M. Asano</a></h6>
+    <p class="text-muted small">UTN Nuremberg</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://kingjamessong.github.io/">
+      <img src="/lab/assets/img/collaborators/yue-song.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yue Song">
+    </a>
+    <h6 class="mb-0"><a href="https://kingjamessong.github.io/">Yue Song</a></h6>
+    <p class="text-muted small">Tsinghua University</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="http://mengtang.org/">
+      <img src="/lab/assets/img/collaborators/meng-tang.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Meng Tang">
+    </a>
+    <h6 class="mb-0"><a href="http://mengtang.org/">Prof. Meng Tang</a></h6>
+    <p class="text-muted small">UC Merced · <a href="https://scholar.google.com/citations?user=6DmW9v0AAAAJ&hl=en">Scholar</a></p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://www.unr.edu/cse/people/ping-liu">
+      <img src="/lab/assets/img/collaborators/ping-liu.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Ping Liu">
+    </a>
+    <h6 class="mb-0"><a href="https://www.unr.edu/cse/people/ping-liu">Prof. Ping Liu</a></h6>
+    <p class="text-muted small">UNR · <a href="https://scholar.google.com/citations?user=KRz4JecAAAAJ&hl=en">Scholar</a></p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://hucaofighting.github.io/">
+      <img src="/lab/assets/img/collaborators/hu-cao.png" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Hu Cao (曹虎)">
+    </a>
+    <h6 class="mb-0"><a href="https://hucaofighting.github.io/">Prof. Hu Cao (曹虎)</a></h6>
+    <p class="text-muted small">Southeast University</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://zhaodeli.github.io/">
+      <img src="/lab/assets/img/collaborators/deli-zhao.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Deli Zhao (赵德丽)">
+    </a>
+    <h6 class="mb-0"><a href="https://zhaodeli.github.io/">Deli Zhao (赵德丽)</a></h6>
+    <p class="text-muted small">Alibaba</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://ommer-lab.com/people/">
+      <img src="/lab/assets/img/collaborators/ming-gui.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Ming Gui">
+    </a>
+    <h6 class="mb-0"><a href="https://ommer-lab.com/people/">Ming Gui</a></h6>
+    <p class="text-muted small">LMU Munich · <a href="https://scholar.google.com/citations?user=Uiv6gU8AAAAJ&hl=en">Scholar</a></p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="http://stefan-baumann.eu/">
+      <img src="/lab/assets/img/collaborators/stefan-baumann.jpeg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Stefan Andreas Baumann">
+    </a>
+    <h6 class="mb-0"><a href="http://stefan-baumann.eu/">Stefan Andreas Baumann</a></h6>
+    <p class="text-muted small">LMU Munich · <a href="https://scholar.google.com/citations?user=egzbdnoAAAAJ&hl=en">Scholar</a></p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://github.com/flixmk">
+      <img src="/lab/assets/img/collaborators/felix-krause.jpeg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Felix Krause">
+    </a>
+    <h6 class="mb-0"><a href="https://github.com/flixmk">Felix Krause</a></h6>
+    <p class="text-muted small">LMU Munich · <a href="https://scholar.google.com/citations?user=2Il9dwMAAAAJ&hl=en">Scholar</a></p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://habibian.github.io/">
+      <img src="/lab/assets/img/collaborators/amirhossein-habibian.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Amirhossein Habibian">
+    </a>
+    <h6 class="mb-0"><a href="https://habibian.github.io/">Amirhossein Habibian</a></h6>
+    <p class="text-muted small">Qualcomm AI Research · <a href="https://scholar.google.com/citations?user=RZ9pOY4AAAAJ&hl=en">Scholar</a></p>
+  </div>
+</div>
 
 <small style="opacity: 0.2;"><a href="https://clustrmaps.com/site/1c93s">visitor stats</a></small>
