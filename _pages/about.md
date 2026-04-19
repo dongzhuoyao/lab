@@ -48,7 +48,7 @@ We are **VIBE Group** at **[Huazhong University of Science and Technology (HUST)
 
 We are actively recruiting **PhD students**, **Master students**, **Research Assistants**, and **undergraduate research assistants** to join our group. **Bachelor and even high school students** are warmly welcome to participate in academic research.
 
-**2027 Fall Openings:** We are recruiting **PhD students**, **Master students**, and **RAs** starting September 2027.
+**2027 Fall Openings:** We are recruiting **PhD students**, **Master students**, and **RAs** starting September 2027. PhD and Master positions are available in both the **School of Computer Science** and the **School of Software Engineering** at HUST.
 
 > **Interested?** Email your CV, transcript, and a few sentences about your research interests to **taohu620.application [at] gmail [dot] com**.
 
