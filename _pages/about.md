@@ -43,7 +43,7 @@ We are **VIBE Group** at **[Huazhong University of Science and Technology (HUST)
 - Supportive and collaborative research environment
 - Strong mentorship and international collaboration network
 - Access to substantial computing resources (GPUs in industry, with ability to rent large cluster GPU resources when necessary)
-- Claude Code API reimbursement
+- Codex API reimbursement
 - Opportunities to publish at top venues (CVPR, ICCV, NeurIPS, ICLR, etc.)
 
 We are actively recruiting **PhD students**, **Master students**, **Research Assistants**, and **undergraduate research assistants** to join our group. **Bachelor and even high school students** are warmly welcome to participate in academic research.
