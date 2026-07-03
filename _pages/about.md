@@ -69,21 +69,21 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
       <img src="/lab/assets/img/collaborators/cees-snoek.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Cees Snoek">
     </a>
     <h6 class="mb-0"><a href="https://www.ceessnoek.info/">Prof. Cees Snoek</a></h6>
-    <p class="text-muted small">University of Amsterdam</p>
+    <p class="text-muted small">University of Amsterdam · <a href="https://scholar.google.com/citations?user=0uKdbscAAAAJ&hl=en">Scholar</a></p>
   </div>
   <div class="col-sm-3 text-center mb-4">
     <a href="https://yukimasano.github.io/">
       <img src="/lab/assets/img/collaborators/yuki-asano.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Yuki M. Asano">
     </a>
     <h6 class="mb-0"><a href="https://yukimasano.github.io/">Prof. Yuki M. Asano</a></h6>
-    <p class="text-muted small">UTN Nuremberg</p>
+    <p class="text-muted small">UTN Nuremberg · <a href="https://scholar.google.com/citations?user=CdpLhlgAAAAJ&hl=en">Scholar</a></p>
   </div>
   <div class="col-sm-3 text-center mb-4">
     <a href="https://kingjamessong.github.io/">
       <img src="/lab/assets/img/collaborators/yue-song.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yue Song">
     </a>
     <h6 class="mb-0"><a href="https://kingjamessong.github.io/">Yue Song</a></h6>
-    <p class="text-muted small">Tsinghua University</p>
+    <p class="text-muted small">Tsinghua University · <a href="https://scholar.google.com/citations?user=Uza2i10AAAAJ&hl=en">Scholar</a></p>
   </div>
   <div class="col-sm-3 text-center mb-4">
     <a href="http://mengtang.org/">
@@ -104,14 +104,14 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
       <img src="/lab/assets/img/collaborators/hu-cao.png" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Prof. Hu Cao (曹虎)">
     </a>
     <h6 class="mb-0"><a href="https://hucaofighting.github.io/">Prof. Hu Cao (曹虎)</a></h6>
-    <p class="text-muted small">Southeast University</p>
+    <p class="text-muted small">Southeast University · <a href="https://scholar.google.com/citations?user=O7qS9DkAAAAJ&hl=en">Scholar</a></p>
   </div>
   <div class="col-sm-3 text-center mb-4">
     <a href="https://zhaodeli.github.io/">
       <img src="/lab/assets/img/collaborators/deli-zhao.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Deli Zhao (赵德丽)">
     </a>
     <h6 class="mb-0"><a href="https://zhaodeli.github.io/">Deli Zhao (赵德丽)</a></h6>
-    <p class="text-muted small">Alibaba</p>
+    <p class="text-muted small">Alibaba · <a href="https://scholar.google.com/citations?user=7LhjCn0AAAAJ&hl=en">Scholar</a></p>
   </div>
   <div class="col-sm-3 text-center mb-4">
     <a href="https://ommer-lab.com/people/">
