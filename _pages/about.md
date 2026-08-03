@@ -40,6 +40,7 @@ We are **VIBE Group** at **[Huazhong University of Science and Technology (HUST)
 - **Brain-Computer Interface** - Neural signal processing, human-machine interaction
 
 ### What We Offer
+
 - Supportive and collaborative research environment
 - Strong mentorship and international collaboration network
 - Access to substantial computing resources (GPUs in industry, with ability to rent large cluster GPU resources when necessary)
@@ -51,6 +52,23 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
 **2027 Fall Openings:** We are recruiting **PhD students**, **Master students**, and **RAs** starting September 2027. PhD and Master positions are available in both the **School of Computer Science** and the **School of Software Engineering** at HUST.
 
 > **Interested?** Email your CV, transcript, and a few sentences about your research interests to **taohu620+application [at] gmail [dot] com**.
+
+---
+
+## Group Members
+
+<div class="row">
+  <div class="col-sm-3 text-center mb-4">
+    <img src="/lab/assets/img/members/yang-chen.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yang Chen">
+    <h6 class="mb-0">Yang Chen</h6>
+    <p class="text-muted small">Master's Student (2026–2029)</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <img src="/lab/assets/img/members/yuanyi-yan.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yuanyi Yan">
+    <h6 class="mb-0">Yuanyi Yan</h6>
+    <p class="text-muted small">Intern (2024–2028)</p>
+  </div>
+</div>
 
 ---
 
