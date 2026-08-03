@@ -66,7 +66,7 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
   <div class="col-sm-3 text-center mb-4">
     <img src="/lab/assets/img/members/yuanyi-yan.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yuanyi Yan">
     <h6 class="mb-0">Yuanyi Yan</h6>
-    <p class="text-muted small">Intern (2024–2028)</p>
+    <p class="text-muted small">Intern (2024–2028)<br>Bachelor's Student, HUST</p>
   </div>
 </div>
 
