@@ -69,9 +69,11 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
     <p class="text-muted small">Intern (2024–2028)<br>Bachelor's Student, HUST</p>
   </div>
   <div class="col-sm-3 text-center mb-4">
-    <div class="rounded-circle mb-2 mx-auto d-flex align-items-center justify-content-center bg-light text-secondary" style="width: 120px; height: 120px; font-size: 1.75rem; font-weight: 500;" role="img" aria-label="Runting Li">RL</div>
-    <h6 class="mb-0">Runting Li</h6>
-    <p class="text-muted small">Research Intern<br>Bachelor's Student, Hainan University (2023–2027)</p>
+    <a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">
+      <img src="/lab/assets/img/members/runting-li.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Runting Li">
+    </a>
+    <h6 class="mb-0"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Runting Li</a></h6>
+    <p class="text-muted small">Research Intern · <a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Scholar</a><br>Bachelor's Student, Hainan University (2023–2027)</p>
   </div>
 </div>
 
