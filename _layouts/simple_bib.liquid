@@ -10,23 +10,24 @@
     {%- endfor -%}
   </div>
 
-  {% unless entry.status == 'preprint' %}
-    {% assign publication_venue = entry.booktitle %}
-    {% if entry.journal %}
-      {% assign publication_venue = entry.journal %}
+  {% assign publication_venue = entry.booktitle %}
+  {% if entry.journal %}
+    {% assign publication_venue = entry.journal %}
+  {% endif %}
+  {% if entry.status == 'preprint' %}
+    {% assign publication_venue = 'arXiv' %}
+  {% endif %}
+  <div class="publication-meta">
+    {% if publication_venue %}
+      <span class="publication-venue">{{ publication_venue }}</span>
     {% endif %}
-    <div class="publication-meta">
-      {% if publication_venue %}
-        <span class="publication-venue">{{ publication_venue }}</span>
-      {% endif %}
-      {% if entry.year %}
-        <span class="publication-year">{{ entry.year }}</span>
-      {% endif %}
-      {% if entry.highlight %}
-        <span class="publication-highlight">{{ entry.highlight }}</span>
-      {% endif %}
-    </div>
-  {% endunless %}
+    {% if entry.year %}
+      <span class="publication-year">{{ entry.year }}</span>
+    {% endif %}
+    {% if entry.highlight %}
+      <span class="publication-highlight">{{ entry.highlight }}</span>
+    {% endif %}
+  </div>
 
   <div class="links">
     {% if entry.pdf %}
