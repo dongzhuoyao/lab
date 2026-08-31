@@ -101,6 +101,37 @@
         }
       }
 
+      .publication-meta {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.35rem;
+        margin: 0.3rem 0 0.4rem;
+
+        .publication-venue,
+        .publication-year,
+        .publication-highlight {
+          display: inline-block;
+          border-radius: 4px;
+          padding: 0.1rem 0.45rem;
+          font-size: 0.78rem;
+          font-weight: 700;
+          line-height: 1.4;
+        }
+
+        .publication-venue,
+        .publication-year {
+          color: var(--global-theme-color);
+          border: 1px solid var(--global-theme-color);
+        }
+
+        .publication-highlight {
+          color: v.$white-color;
+          background-color: var(--global-highlight-color);
+          border: 1px solid var(--global-highlight-color);
+        }
+      }
+
       .links {
         a.btn {
           color: var(--global-text-color-light);

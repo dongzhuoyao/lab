@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Vision, Intelligence, Brain, Embodiment
 
 profile: false
 
@@ -12,12 +11,12 @@ selected_papers: false
 social: false
 ---
 
-<img src="/lab/assets/img/vibe-logo.svg" alt="VIBE Group Logo" style="width: 150px; display: block; margin: 0 auto 20px;">
+<img src="/lab/assets/img/vibe-logo.svg" alt="VIBE Lab Logo" style="width: 150px; display: block; margin: 0 auto 20px;">
 
-We are **VIBE Group** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
+We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)** — advancing the understanding and capabilities of generative intelligence systems, bridging the gap between large-scale models and real-world applications.
 
 <div class="alert alert-warning text-center mb-4" role="alert">
-  <strong>Join VIBE Group — Fall 2027 intake</strong><br>
+  <strong>Join VIBE Lab — Fall 2027 intake</strong><br>
   We’re recruiting <strong>PhD</strong>, <strong>Master students</strong>, and <strong>Research Assistants</strong> to build the next wave of generative & embodied intelligence (diffusion, LVMs, robotics, BCI). <strong>Bachelor and high school students</strong> are also welcome!
   <div class="mt-2">
     <a class="btn btn-primary btn-sm" href="mailto:taohu620+application@gmail.com?subject=VIBE%20Lab%20Application">Email your CV</a>
@@ -167,5 +166,3 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
     <p class="text-muted small">Qualcomm AI Research · <a href="https://scholar.google.com/citations?user=RZ9pOY4AAAAJ&hl=en">Scholar</a></p>
   </div>
 </div>
-
-<small style="opacity: 0.2;"><a href="https://clustrmaps.com/site/1c93s">visitor stats</a></small>
