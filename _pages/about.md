@@ -165,4 +165,25 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
     <h6 class="mb-0"><a href="https://habibian.github.io/">Amirhossein Habibian</a></h6>
     <p class="text-muted small">Qualcomm AI Research · <a href="https://scholar.google.com/citations?user=RZ9pOY4AAAAJ&hl=en">Scholar</a></p>
   </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://chatgpt.com/" aria-label="ChatGPT">
+      <span class="rounded-circle mb-2 d-inline-flex align-items-center justify-content-center text-white font-weight-bold" style="width: 120px; height: 120px; background: #10a37f; font-size: 1.25rem;">ChatGPT</span>
+    </a>
+    <h6 class="mb-0"><a href="https://chatgpt.com/">ChatGPT</a></h6>
+    <p class="text-muted small">OpenAI</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://claude.com/" aria-label="Claude">
+      <span class="rounded-circle mb-2 d-inline-flex align-items-center justify-content-center text-white font-weight-bold" style="width: 120px; height: 120px; background: #d97757; font-size: 1.25rem;">Claude</span>
+    </a>
+    <h6 class="mb-0"><a href="https://claude.com/">Claude</a></h6>
+    <p class="text-muted small">Anthropic</p>
+  </div>
+  <div class="col-sm-3 text-center mb-4">
+    <a href="https://www.kimi.com/" aria-label="Kimi">
+      <span class="rounded-circle mb-2 d-inline-flex align-items-center justify-content-center text-white font-weight-bold" style="width: 120px; height: 120px; background: #5b5bd6; font-size: 1.25rem;">Kimi</span>
+    </a>
+    <h6 class="mb-0"><a href="https://www.kimi.com/">Kimi</a></h6>
+    <p class="text-muted small">Moonshot AI</p>
+  </div>
 </div>
