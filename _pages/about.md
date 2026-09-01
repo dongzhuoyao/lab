@@ -36,7 +36,6 @@ We are **VIBE Lab** at **[Huazhong University of Science and Technology (HUST)](
 - **Generative AI**
 - **Large Vision Models** - Foundation models, multimodal learning, efficient training and inference
 - **Embodied AI** - Robot learning, sim-to-real transfer, physical intelligence
-- **Brain-Computer Interface** - Neural signal processing, human-machine interaction
 
 ### What We Offer
 
