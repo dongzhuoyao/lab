@@ -59,7 +59,7 @@ We are actively recruiting **PhD students**, **Master students**, **Research Ass
   <div class="col-sm-3 text-center mb-4">
     <img src="/lab/assets/img/members/yang-chen.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yang Chen">
     <h6 class="mb-0">Yang Chen</h6>
-    <p class="text-muted small">Master's Student (2026–2029)</p>
+    <p class="text-muted small">PhD Student (2026–Present)</p>
   </div>
   <div class="col-sm-3 text-center mb-4">
     <img src="/lab/assets/img/members/yuanyi-yan.jpg" class="img-fluid rounded-circle mb-2" style="width: 120px; height: 120px; object-fit: cover;" alt="Yuanyi Yan">
