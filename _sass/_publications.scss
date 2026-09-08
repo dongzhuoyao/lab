@@ -133,20 +133,44 @@
       }
 
       .links {
-        a.btn {
-          color: var(--global-text-color-light);
-          border: 1px solid var(--global-divider-color);
-          padding: 0.25rem 0.75rem;
-          font-size: 0.8rem;
-          border-radius: 4px;
-          margin-left: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.45rem;
 
-          &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
-            background-color: transparent;
+        a.btn {
+          display: inline-flex;
+          align-items: center;
+          gap: 0.35rem;
+          color: var(--global-card-bg-color) !important;
+          background-color: var(--global-theme-color);
+          border: 1px solid var(--global-theme-color);
+          padding: 0.3rem 0.8rem;
+          font-size: 0.8rem;
+          font-weight: 600;
+          border-radius: 4px;
+          margin: 0;
+          box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18);
+          transition:
+            filter 0.15s ease,
+            transform 0.15s ease,
+            box-shadow 0.15s ease;
+
+          &:hover,
+          &:focus {
+            color: var(--global-card-bg-color) !important;
+            background-color: var(--global-theme-color);
+            text-decoration: none;
+            filter: brightness(0.88);
+            transform: translateY(-1px);
+            box-shadow: 0 3px 7px rgba(0, 0, 0, 0.22);
+          }
+
+          &:focus-visible {
+            outline: 2px solid var(--global-theme-color);
+            outline-offset: 2px;
           }
         }
+
         a.award.btn {
           border-color: var(--global-highlight-color);
         }

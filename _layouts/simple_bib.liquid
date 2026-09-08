@@ -32,16 +32,16 @@
   <div class="links">
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}
-        <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> PDF</a>
       {% else %}
-        <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> PDF</a>
       {% endif %}
     {% endif %}
     {% if entry.code %}
-      <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+      <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-code" aria-hidden="true"></i> Code</a>
     {% endif %}
     {% if entry.website %}
-      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-globe" aria-hidden="true"></i> Website</a>
     {% endif %}
   </div>
 </div>
