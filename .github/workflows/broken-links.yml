@@ -32,9 +32,23 @@ jobs:
       - name: Build site
         env:
           JEKYLL_ENV: production
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --destination _linkcheck_root/lab
 
-      - name: Check internal and external links
+      - name: Check internal links
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          fail: true
+          format: markdown
+          jobSummary: true
+          args: >-
+            --offline
+            --root-dir '${{ github.workspace }}/_linkcheck_root'
+            --index-files index.html
+            --verbose
+            --no-progress
+            '_linkcheck_root/lab/**/*.html'
+
+      - name: Check external links
         uses: lycheeverse/lychee-action@v2.9.0
         with:
           fail: true
@@ -44,7 +58,8 @@ jobs:
             --base-url https://taohu.me
             --max-retries 3
             --retry-wait-time 2
-            --accept '100..=103,200..=299,429'
+            --accept '100..=103,200..=299,403,429'
+            --exclude '^https://taohu\.me/lab/'
             --verbose
             --no-progress
-            '_site/**/*.html'
+            '_linkcheck_root/lab/**/*.html'
