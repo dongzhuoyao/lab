@@ -3,6 +3,7 @@ layout: page
 permalink: /lab/
 title: lab
 nav: false
+published: false
 description: Research Lab
 ---
 

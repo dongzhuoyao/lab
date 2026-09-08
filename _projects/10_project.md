@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 title: project 10
 description: A project with an introduction section
 img: assets/img/5.jpg

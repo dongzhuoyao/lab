@@ -4,6 +4,7 @@ permalink: /team/
 title: Team
 description: Members of the Generative Intelligence Lab
 nav: false
+published: false
 nav_order: 3
 
 profiles:

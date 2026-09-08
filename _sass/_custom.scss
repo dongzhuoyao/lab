@@ -6,8 +6,8 @@
 // Base font settings
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 // Heading sizes
@@ -37,7 +37,7 @@ h5 {
 }
 
 h6 {
-  font-size: 12px;
+  font-size: 0.95rem;
   font-weight: 600;
 }
 
@@ -45,4 +45,133 @@ h6 {
 p {
   margin-top: 0;
   margin-bottom: 10px;
+}
+
+// Homepage identity and people grids
+.lab-logo {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 1rem;
+}
+
+.lab-intro {
+  max-width: 720px;
+  margin: 0 auto 1.5rem;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  text-align: center;
+}
+
+.join-us-card {
+  padding: 1rem 1.25rem;
+}
+
+.join-us-heading {
+  font-weight: 700;
+  text-align: center;
+}
+
+.join-us-copy {
+  max-width: 680px;
+  margin: 0.35rem auto 0.8rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+#join-us,
+h2[id] {
+  scroll-margin-top: 5rem;
+}
+
+.people-grid {
+  row-gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.person-card {
+  margin-bottom: 1rem;
+}
+
+.profile-avatar {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 0.6rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: var(--global-card-bg-color);
+}
+
+.profile-avatar--logo {
+  object-fit: contain;
+  padding: 22px;
+  background-color: #f2f2f2;
+}
+
+.person-card p {
+  margin-top: 0.25rem;
+  line-height: 1.4;
+}
+
+.person-card .member-meta {
+  margin-bottom: 0;
+}
+
+.person-card .member-focus {
+  min-height: 2.8em;
+  margin: 0.35rem 0 0;
+  color: var(--global-text-color);
+}
+
+.person-card .member-links {
+  margin: 0.3rem 0 0;
+  font-weight: 500;
+}
+
+// Compact, readable publication list
+.publication-entry {
+  padding: 0.15rem 0 0.35rem;
+}
+
+.publication-entry .title {
+  font-size: 1.02rem;
+  line-height: 1.4;
+}
+
+.publication-entry .author {
+  color: var(--global-text-color-light);
+  line-height: 1.45;
+}
+
+.bibsearch-form-input {
+  max-width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 575.98px) {
+  .lab-logo {
+    width: 128px;
+    height: 128px;
+    margin-bottom: 0.75rem;
+  }
+
+  .lab-intro,
+  .join-us-copy {
+    text-align: left;
+  }
+
+  .lab-intro {
+    font-size: 1rem;
+  }
+
+  .join-us-card {
+    padding: 0.9rem 1rem;
+  }
+
+  .profile-avatar {
+    width: 108px;
+    height: 108px;
+  }
 }
