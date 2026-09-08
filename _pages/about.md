@@ -5,7 +5,9 @@ permalink: /
 
 profile: false
 
-news: false
+announcements:
+  scrollable: false
+  limit: 3
 latest_posts: false
 selected_papers: false
 social: false
@@ -30,6 +32,14 @@ social: false
 His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Selected contributions include [DepthFM](https://depthfm.github.io/) (AAAI 2025 Oral), [ZigMa](https://taohu.me/zigma/) (ECCV 2024), and [Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) (CVPR 2023).
 
 [Personal Homepage](https://taohu.me) &#124; [Google Scholar](https://scholar.google.com/citations?user=EchdyZEAAAAJ)
+
+---
+
+## Latest News
+
+{% include news.liquid limit=true %}
+
+[View all news]({{ '/news/' | relative_url }})
 
 ---
 
