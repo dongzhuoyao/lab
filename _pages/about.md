@@ -13,15 +13,16 @@ selected_papers: false
 social: false
 ---
 
-<img src="{{ '/assets/img/vibe-logo.svg' | relative_url }}" class="lab-logo" width="150" height="150" alt="VIBE Lab logo">
-
-<p class="lab-intro">We are <strong>VIBE Lab</strong> at <strong><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology (HUST)</a></strong>. We develop generative intelligence systems that connect large-scale models with real-world perception and action.</p>
+<div class="lab-hero">
+  <img src="{{ '/assets/img/vibe-logo.svg' | relative_url }}" class="lab-logo" width="150" height="150" alt="VIBE Lab logo">
+  <p class="lab-intro">We are <strong>VIBE Lab</strong> at <strong><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology (HUST)</a></strong>. We develop generative intelligence systems that connect large-scale models with real-world perception and action.</p>
+</div>
 
 <div id="join-us" class="alert alert-warning join-us-card mb-4" role="region" aria-label="Join VIBE Lab">
   <div class="join-us-heading">Join VIBE Lab — Fall 2027</div>
   <p class="join-us-copy">We are recruiting PhD and master’s students and research assistants. Bachelor’s and high school students are also welcome to join projects in generative and embodied AI.</p>
   <div class="text-center">
-    <a class="btn btn-primary btn-sm" href="mailto:taohu620+application@gmail.com?subject=VIBE%20Lab%20Application">Apply by email</a>
+    <a class="btn btn-primary btn-sm" href="mailto:taohu620+application@gmail.com?subject=VIBE%20Lab%20Application">Apply by email <span aria-hidden="true">→</span></a>
   </div>
 </div>
 
@@ -31,7 +32,10 @@ social: false
 
 His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Selected contributions include [DepthFM](https://depthfm.github.io/) (AAAI 2025 Oral), [ZigMa](https://taohu.me/zigma/) (ECCV 2024), and [Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) (CVPR 2023).
 
-[Personal Homepage](https://taohu.me) &#124; [Google Scholar](https://scholar.google.com/citations?user=EchdyZEAAAAJ)
+<div class="profile-links">
+  <a href="https://taohu.me">Personal Homepage</a>
+  <a href="https://scholar.google.com/citations?user=EchdyZEAAAAJ">Google Scholar</a>
+</div>
 
 ---
 
@@ -39,15 +43,15 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
 
 {% include news.liquid limit=true %}
 
-[View all news]({{ '/news/' | relative_url }})
+<p class="section-link"><a href="{{ '/news/' | relative_url }}">View all news <span aria-hidden="true">→</span></a></p>
 
 ---
 
 ## Research Areas
 
+- **World Model** — Predictive representations for long-horizon video generation, planning, and embodied interaction
 - **Generative AI** — Diffusion, flow matching, and efficient generative architectures
-- **Large Vision Models** — Foundation models, multimodal learning, and efficient training and inference
-- **Embodied AI** — Robot learning, sim-to-real transfer, and physical intelligence
+- **Vision & Embodied AI** — Large vision models, multimodal learning, robot learning, and sim-to-real embodied intelligence
 
 ### What We Offer
 
@@ -62,7 +66,15 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
 ## Group Members
 
 <div class="row people-grid">
-  <div class="col-6 col-md-4 text-center person-card">
+  <div class="col-6 col-md-3 text-center person-card">
+    <a href="https://taohu.me/" aria-label="Tao Hu personal homepage">
+      <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Tao Hu">
+    </a>
+    <h6 class="mb-0"><a href="https://taohu.me/">Tao Hu</a></h6>
+    <p class="text-muted small member-meta">Head</p>
+    <p class="small member-links"><a href="https://taohu.me/">taohu.me</a></p>
+  </div>
+  <div class="col-6 col-md-3 text-center person-card">
     <a href="https://github.com/cheyan9" aria-label="Yang Chen on GitHub">
       <img src="{{ '/assets/img/members/yang-chen.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yang Chen">
     </a>
@@ -71,7 +83,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="small member-focus">Robust vision · test-time inference</p>
     <p class="small member-links"><a href="https://github.com/cheyan9">GitHub</a></p>
   </div>
-  <div class="col-6 col-md-4 text-center person-card">
+  <div class="col-6 col-md-3 text-center person-card">
     <a href="https://yuanyiyan.com/" aria-label="Yuanyi Yan personal homepage">
       <img src="{{ '/assets/img/members/yuanyi-yan.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yuanyi Yan">
     </a>
@@ -80,7 +92,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="small member-focus">Generative models · embodied AI</p>
     <p class="small member-links"><a href="https://yuanyiyan.com/">Homepage</a></p>
   </div>
-  <div class="col-6 col-md-4 text-center person-card">
+  <div class="col-6 col-md-3 text-center person-card">
     <a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">
       <img src="{{ '/assets/img/members/runting-li.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Runting Li">
     </a>
@@ -112,7 +124,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
   </div>
   <div class="col-6 col-md-4 text-center person-card">
     <a href="https://www.kimi.com/">
-      <img src="{{ '/assets/img/collaborators/kimi.svg' | relative_url }}" class="profile-avatar profile-avatar--logo" width="120" height="120" loading="lazy" decoding="async" alt="Kimi">
+      <img src="{{ '/assets/img/collaborators/kimi.svg' | relative_url }}" class="profile-avatar profile-avatar--logo profile-avatar--kimi" width="120" height="120" loading="lazy" decoding="async" alt="Kimi">
     </a>
     <h6 class="mb-0"><a href="https://www.kimi.com/">Kimi</a></h6>
     <p class="text-muted small">Moonshot AI</p>

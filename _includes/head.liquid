@@ -82,6 +82,11 @@
   <script>
     initTheme();
   </script>
+{% else %}
+  <script>
+    // Theme-aware helpers still query this function when the site is fixed to light mode.
+    window.determineComputedTheme = () => 'light';
+  </script>
 {% endif %}
 
 {% if page.map %}
