@@ -8,7 +8,7 @@ description: Research Lab
 ---
 
 <div class="alert alert-danger text-center" role="alert" style="border: 2px solid #dc3545; padding: 20px;">
-  <h4 style="margin-bottom: 10px;">We are actively recruiting for Fall 2027!</h4>
+  <h4 style="margin-bottom: 10px;">We are actively recruiting for Fall 2028!</h4>
   <p style="margin-bottom: 8px;">
     <strong>PhD positions</strong> · <strong>Master's positions</strong> · <strong>Bachelor's students also welcome</strong>
   </p>
@@ -23,9 +23,9 @@ description: Research Lab
 
 ---
 
-## Open Positions (Fall 2027)
+## Open Positions (Fall 2028)
 
-We have multiple openings for motivated students to join our group starting **Fall 2027**:
+We have multiple openings for motivated students to join our group starting **Fall 2028**:
 
 | Position | Openings | Note |
 |----------|----------|------|

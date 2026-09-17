@@ -19,7 +19,7 @@ social: false
 </div>
 
 <div id="join-us" class="alert alert-warning join-us-card mb-4" role="region" aria-label="Join VIBE Lab">
-  <div class="join-us-heading">Join VIBE Lab — Fall 2027</div>
+  <div class="join-us-heading">Join VIBE Lab — Fall 2028</div>
   <p class="join-us-copy">We are recruiting PhD and master’s students and research assistants. Bachelor’s and high school students are also welcome to join projects in generative and embodied AI.</p>
   <div class="text-center">
     <a class="btn btn-primary btn-sm" href="mailto:taohu620+application@gmail.com?subject=VIBE%20Lab%20Application">Apply by email <span aria-hidden="true">→</span></a>
@@ -88,7 +88,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
       <img src="{{ '/assets/img/members/yuanyi-yan.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yuanyi Yan">
     </a>
     <h6 class="mb-0"><a href="https://yuanyiyan.com/">Yuanyi Yan</a></h6>
-    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, HUST (2024–2028)</p>
+    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, HUST (2024–Current)</p>
     <p class="small member-focus">Generative models · embodied AI</p>
     <p class="small member-links"><a href="https://yuanyiyan.com/">Homepage</a></p>
   </div>
@@ -97,7 +97,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
       <img src="{{ '/assets/img/members/runting-li.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Runting Li">
     </a>
     <h6 class="mb-0"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Runting Li</a></h6>
-    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, Hainan University (2023–2027)</p>
+    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, Hainan University (2023–Current)</p>
     <p class="small member-focus">Rectified flow · visual perception</p>
     <p class="small member-links"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Google Scholar</a></p>
   </div>
