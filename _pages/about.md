@@ -65,7 +65,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
 
 ## Group Members
 
-<div class="row people-grid">
+<div class="row people-grid justify-content-center">
   <div class="col-6 col-md-3 text-center person-card">
     <a href="https://taohu.me/" aria-label="Tao Hu personal homepage">
       <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Tao Hu">
@@ -82,6 +82,11 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="text-muted small member-meta">PhD Student (2026–Present)</p>
     <p class="small member-focus">Robust vision · test-time inference</p>
     <p class="small member-links"><a href="https://github.com/cheyan9">GitHub</a></p>
+  </div>
+  <div class="col-6 col-md-3 text-center person-card">
+    <img src="{{ '/assets/img/members/chengsong-qu.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Chengsong Qu">
+    <h6 class="mb-0">Chengsong Qu</h6>
+    <p class="text-muted small member-meta">Incoming PhD Student (2027–Present)<br>Bachelor’s, HUST</p>
   </div>
   <div class="col-6 col-md-3 text-center person-card">
     <a href="https://yuanyiyan.com/" aria-label="Yuanyi Yan personal homepage">
