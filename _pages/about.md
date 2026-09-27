@@ -107,7 +107,7 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
       <img src="{{ '/assets/img/members/runting-li.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Runting Li">
     </a>
     <h6 class="mb-0"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Runting Li</a></h6>
-    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, Hainan University (2023–Current)</p>
+    <p class="text-muted small member-meta">Incoming PhD Student (2027–Present)<br>Bachelor’s, Hainan University</p>
     <p class="small member-focus">Rectified flow · visual perception</p>
     <p class="small member-links"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Google Scholar</a></p>
   </div>
