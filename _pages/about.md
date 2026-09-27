@@ -89,6 +89,11 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="text-muted small member-meta">Incoming PhD Student (2027–Present)<br>Bachelor’s, HUST</p>
   </div>
   <div class="col-6 col-md-3 text-center person-card">
+    <img src="{{ '/assets/img/members/canyu-shen.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Canyu Shen">
+    <h6 class="mb-0">Canyu Shen</h6>
+    <p class="text-muted small member-meta">Incoming Master’s Student (2027–Present)<br>Bachelor’s, Tongji University</p>
+  </div>
+  <div class="col-6 col-md-3 text-center person-card">
     <a href="https://yuanyiyan.com/" aria-label="Yuanyi Yan personal homepage">
       <img src="{{ '/assets/img/members/yuanyi-yan.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yuanyi Yan">
     </a>
