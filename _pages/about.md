@@ -94,15 +94,6 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="text-muted small member-meta">Incoming Master’s Student (2027–Present)<br>Bachelor’s, Tongji University</p>
   </div>
   <div class="col-6 col-md-3 text-center person-card">
-    <a href="https://yuanyiyan.com/" aria-label="Yuanyi Yan personal homepage">
-      <img src="{{ '/assets/img/members/yuanyi-yan.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yuanyi Yan">
-    </a>
-    <h6 class="mb-0"><a href="https://yuanyiyan.com/">Yuanyi Yan</a></h6>
-    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, HUST (2024–Current)</p>
-    <p class="small member-focus">Generative models · embodied AI</p>
-    <p class="small member-links"><a href="https://yuanyiyan.com/">Homepage</a></p>
-  </div>
-  <div class="col-6 col-md-3 text-center person-card">
     <a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">
       <img src="{{ '/assets/img/members/runting-li.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Runting Li">
     </a>
@@ -110,6 +101,15 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="text-muted small member-meta">Incoming PhD Student (2027–Present)<br>Bachelor’s, Hainan University</p>
     <p class="small member-focus">Rectified flow · visual perception</p>
     <p class="small member-links"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Google Scholar</a></p>
+  </div>
+  <div class="col-6 col-md-3 text-center person-card">
+    <a href="https://yuanyiyan.com/" aria-label="Yuanyi Yan personal homepage">
+      <img src="{{ '/assets/img/members/yuanyi-yan.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yuanyi Yan">
+    </a>
+    <h6 class="mb-0"><a href="https://yuanyiyan.com/">Yuanyi Yan</a></h6>
+    <p class="text-muted small member-meta">Research Intern<br>Bachelor’s Student, HUST (2024–Current)</p>
+    <p class="small member-focus">Generative models · embodied AI</p>
+    <p class="small member-links"><a href="https://yuanyiyan.com/">Homepage</a></p>
   </div>
 </div>
 
