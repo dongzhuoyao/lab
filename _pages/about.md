@@ -103,6 +103,11 @@ His work has appeared at CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, and T-PAMI. Sele
     <p class="small member-links"><a href="https://scholar.google.com/citations?user=CwT5bq4AAAAJ&hl=zh-CN">Google Scholar</a></p>
   </div>
   <div class="col-6 col-md-3 text-center person-card">
+    <img src="{{ '/assets/img/members/gezhi-zhu.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Gezhi Zhu">
+    <h6 class="mb-0">Gezhi Zhu</h6>
+    <p class="text-muted small member-meta">Incoming Master’s Student (2027–Present)<br>Bachelor’s, HUST</p>
+  </div>
+  <div class="col-6 col-md-3 text-center person-card">
     <a href="https://yuanyiyan.com/" aria-label="Yuanyi Yan personal homepage">
       <img src="{{ '/assets/img/members/yuanyi-yan.jpg' | relative_url }}" class="profile-avatar" width="120" height="120" loading="lazy" decoding="async" alt="Yuanyi Yan">
     </a>
